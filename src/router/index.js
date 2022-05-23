@@ -14,8 +14,8 @@ const router = createRouter({
       component: FisicaView,
     },
     {
-      path: "/home",
-      name: "home",
+      path: "/",
+      name: "",
       component: HomeViewVue,
     },
     {

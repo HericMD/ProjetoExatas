@@ -1,7 +1,7 @@
 <script></script>
 <template>
   <form>
-    <button class="Logo"><a href="/home">Projeto Exatas</a></button>
+    <button class="Logo"><a href="/">Projeto Exatas</a></button>
     <button type="submit" class="Theme-btn">
       <img src="@/assets/img/ThemeBtn.jpg" />
     </button>
